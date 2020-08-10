@@ -1,0 +1,9 @@
+Building Tnmcoin
+
+See doc/readme-qt.rst for instructions on building Tnmcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Tnmcoin.
+
+See doc/build-*.txt for instructions on building tnmcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Tnmcoin.
