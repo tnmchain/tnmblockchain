@@ -1,25 +1,25 @@
 Tnmcoin integration/staging tree
 ================================
 
-http://www.tnmcoin.org
+https://www.tnm-project.com
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Tnmcoin Developers
+Copyright (c) 2019-2020 Tnmcoin Developers
 
 What is Tnmcoin?
 ----------------
 
 Tnmcoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
-
-The rest is the same as Bitcoin.
- - 50 coins per block
+ - 2 minute block targets
+ - ~100 million total coins
+ -Subsidy is cut in half every 840000 blocks, which will occur approximately every 4 years
+ - 60 coins per block
  - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the Tnmcoin client sofware, see http://www.tnmcoin.org.
+the Tnmcoin client sofware, see 
+https://www.tnm-project.com.
+
 
 License
 -------
@@ -71,5 +71,5 @@ Unit tests for the GUI code are in `src/qt/test/`. To compile and run them:
     make -f Makefile.test
     ./tnmcoin-qt_test
 
-# tnmcoin
+
 # tnmcoin
