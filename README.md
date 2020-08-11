@@ -1,12 +1,13 @@
-Tnmcoin integration/staging tree
-================================
- is an new digital currency that enables instant payments to anyone, anywhere in the world. Tnmcoin uses peer-to-peer technology to operate with no central authority: managing transactions and issuing money are carried out collectively by the network. Tnmcoin is also the name of the open source software which enables the use of this currency.
+Tnmcoin integration/Project
+===========================
+Tnmcoin is an new digital currency that enables instant payments to anyone, anywhere in the world. Tnmcoin uses peer-to-peer technology to operate with no central authority: managing transactions and issuing money are carried out collectively by the network. Tnmcoin is also the name of the open source software which enables the use of this currency.It Is Mined Using High-End Computers And Software By Solving Complex Algorithms.
+This Is One Of The Most Recommended Cryptocurrencies Which Is Basically Advisable For Value Miners. It Is A Peer-To-Peer Transactional Digital Currency
 
 For more information, as well as an immediately useable, binary version of the Tnmcoin client software, see
 https://www.tnm-project.com
 
-Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2019-2020 Tnmcoin Developers
+
+
 
 What is Tnmcoin?
 ----------------
@@ -19,15 +20,10 @@ Tnmcoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the Tnmcoin client sofware, see 
+the Tnmcoin client sofware, see :
 https://www.tnm-project.com.
 
 
-License
--------
-
-Tnmcoin is released under the terms of the MIT license. See `COPYING` for more
-information or see http://opensource.org/licenses/MIT.
 
 Development process
 -------------------
@@ -73,5 +69,12 @@ Unit tests for the GUI code are in `src/qt/test/`. To compile and run them:
     make -f Makefile.test
     ./tnmcoin-qt_test
 
+License
+-------
 
-# tnmcoin
+Tnmcoin is released under the terms of the MIT license. See `COPYING` for more
+information or see http://opensource.org/licenses/MIT.
+
+
+Copyright (c) 2019-2020 tnm-project Developers
+
